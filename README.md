@@ -20,7 +20,7 @@ Utilizamos o **PostgreSQL** como banco de dados principal.
 - **Swagger UI** (documentação da API)
 
 ## Como Instalar o Projeto 💾
-Para instalar e rodar o projeto localmente, siga os passos abaixo:
+Para instalar e rodar o projeto localmente, siga os passos abaixo (Nesse caso, é o projeto interdisciplinar, que não está nesse projeto e sim no outro):
 
 1. Abra o terminal (Git Bash ou outro de sua preferência)
 2. Clone o repositório:
