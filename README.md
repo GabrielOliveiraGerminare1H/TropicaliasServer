@@ -1,10 +1,10 @@
 # Tropicalias
-Tropicalias é uma comunidade online que conecta pessoas por meio da cultura e celebra a diversidade!
+Tropicalias é um app que tem como principal funcionalidade ter uma comunidade online que conecta pessoas por meio da cultura e poder celebrar a diversidade!
 
-## Tecnologias Utilizadas 💻
+## Tecnologias Usadas 💻
 
 ### Linguagens 🖥️
-A equipe Tropicalias utiliza as seguintes linguagens:
+A equipe Tropicalias utilizou as seguintes linguagens:
 - **Java**
 - **JavaScript**
 - **HTML** (linguagem de marcação)
